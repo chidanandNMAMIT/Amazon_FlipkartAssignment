@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Assignment test1" duration-ms="89132" started-at="2020-01-26T22:10:38Z" finished-at="2020-01-26T22:12:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="89132" started-at="2020-01-26T22:10:38Z" finished-at="2020-01-26T22:12:07Z">
+      <class name="com.flipkart.qa.TestPages.HomePageTest">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="setExtent" is-config="true" duration-ms="286" started-at="2020-01-26T22:10:38Z" finished-at="2020-01-26T22:10:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="setUp" is-config="true" duration-ms="20857" started-at="2020-01-26T22:10:38Z" finished-at="2020-01-26T22:10:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.amazon.in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HomePageTitleTest(java.lang.reflect.Method)[pri:1, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="HomePageTitleTest" duration-ms="587" started-at="2020-01-26T22:10:59Z" finished-at="2020-01-26T22:10:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.qa.TestPages.HomePageTest.HomePageTitleTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="tearDown" is-config="true" duration-ms="1270" started-at="2020-01-26T22:10:59Z" finished-at="2020-01-26T22:11:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePageTitleTest status=SUCCESS method=HomePageTest.HomePageTitleTest(java.lang.reflect.Method)[pri:1, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="setUp" is-config="true" duration-ms="14782" started-at="2020-01-26T22:11:01Z" finished-at="2020-01-26T22:11:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.amazon.in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="amazonImageTest(java.lang.reflect.Method)[pri:2, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="amazonImageTest" duration-ms="1257" started-at="2020-01-26T22:11:15Z" finished-at="2020-01-26T22:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.qa.TestPages.HomePageTest.amazonImageTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonImageTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="tearDown" is-config="true" duration-ms="1008" started-at="2020-01-26T22:11:17Z" finished-at="2020-01-26T22:11:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=amazonImageTest status=SUCCESS method=HomePageTest.amazonImageTest(java.lang.reflect.Method)[pri:2, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="setUp" is-config="true" duration-ms="15241" started-at="2020-01-26T22:11:18Z" finished-at="2020-01-26T22:11:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.amazon.in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Amazon_search_Test(java.lang.reflect.Method)[pri:3, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="Amazon_search_Test" duration-ms="5414" started-at="2020-01-26T22:11:33Z" finished-at="2020-01-26T22:11:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.qa.TestPages.HomePageTest.Amazon_search_Test(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon_search_Test -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="tearDown" is-config="true" duration-ms="1609" started-at="2020-01-26T22:11:38Z" finished-at="2020-01-26T22:11:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Amazon_search_Test status=SUCCESS method=HomePageTest.Amazon_search_Test(java.lang.reflect.Method)[pri:3, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="setUp" is-config="true" duration-ms="17111" started-at="2020-01-26T22:11:40Z" finished-at="2020-01-26T22:11:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.amazon.in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="flipkart_search_Test(java.lang.reflect.Method)[pri:4, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="flipkart_search_Test" duration-ms="7308" started-at="2020-01-26T22:11:57Z" finished-at="2020-01-26T22:12:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkart.qa.TestPages.HomePageTest.flipkart_search_Test(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart_search_Test -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="tearDown" is-config="true" duration-ms="1190" started-at="2020-01-26T22:12:04Z" finished-at="2020-01-26T22:12:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=flipkart_search_Test status=SUCCESS method=HomePageTest.flipkart_search_Test(java.lang.reflect.Method)[pri:4, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.flipkart.qa.TestPages.HomePageTest@6536e911]" name="endReport" is-config="true" duration-ms="1138" started-at="2020-01-26T22:12:06Z" finished-at="2020-01-26T22:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.flipkart.qa.TestPages.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Assignment test1 -->
+</testng-results>

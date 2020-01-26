@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Assignment test1">
+
+<!-- <listeners>
+		<listener class-name="com.flipkart.qa.RetryLogic.MyTransformer"/>
+	</listeners> -->
+	
+  <test name="Test">
+  
+  <parameter name="Browser" value="chrome"/>
+  <parameter name="url" value="https://www.amazon.in"/>
+  
+  		<classes>
+			<class name="com.flipkart.qa.TestPages.HomePageTest"/>
+		</classes>
+  </test> 
+</suite> 

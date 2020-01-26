@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Assignment test1]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="url" value="https://www.amazon.in"/>
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.flipkart.qa.TestPages.Flipkart_HomaPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="FlipkartImageTest" invocation-numbers="0"/>
+          <include name="endReport"/>
+          <include name="Flipkart_search_Test" invocation-numbers="0"/>
+          <include name="setExtent"/>
+          <include name="HomePageTitleTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.flipkart.qa.TestPages.Flipkart_HomaPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Assignment test1] -->

@@ -1,0 +1,25 @@
+2020-01-27 03:40:59,170  INFO [main] WebEventListener:29 - Application Launched Successfully
+2020-01-27 03:40:59,878  INFO [main] Amzn_HomePage:40 - AmazonHomePage Title Verified
+2020-01-27 03:41:01,153  INFO [main] Amzn_HomePage:115 - Browser Terminated
+2020-01-27 03:41:01,154  INFO [main] Amzn_HomePage:116 - -----------------------------------------------
+2020-01-27 03:41:15,939  INFO [main] WebEventListener:29 - Application Launched Successfully
+2020-01-27 03:41:17,198  INFO [main] Amzn_HomePage:49 - Amazon image Validated successfully 
+2020-01-27 03:41:18,172  INFO [main] Amzn_HomePage:115 - Browser Terminated
+2020-01-27 03:41:18,211  INFO [main] Amzn_HomePage:116 - -----------------------------------------------
+2020-01-27 03:41:33,453  INFO [main] WebEventListener:29 - Application Launched Successfully
+2020-01-27 03:41:38,867  INFO [main] Amzn_HomePage:58 - Mobile searched and selected successfully
+2020-01-27 03:41:40,479  INFO [main] Amzn_HomePage:115 - Browser Terminated
+2020-01-27 03:41:40,480  INFO [main] Amzn_HomePage:116 - -----------------------------------------------
+2020-01-27 03:41:57,592  INFO [main] WebEventListener:29 - Application Launched Successfully
+2020-01-27 03:42:06,095  INFO [main] Amzn_HomePage:115 - Browser Terminated
+2020-01-27 03:42:06,096  INFO [main] Amzn_HomePage:116 - -----------------------------------------------
+2020-01-27 03:42:06,164 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-01-27 03:42:06,189 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-01-27 03:42:06,194 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-01-27 03:42:06,197 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-01-27 03:42:06,199 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Siddu/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-01-27 03:42:06,994 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-01-27 03:42:06,995 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-01-27 03:42:06,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-01-27 03:42:06,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-01-27 03:42:06,998 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Siddu/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
